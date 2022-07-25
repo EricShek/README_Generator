@@ -54,6 +54,8 @@ function generateMarkdown(data) {
      
   
   ## Credits
+
+  ${data.credit}
   
   List your collaborators, if any, with links to their GitHub profiles.
   

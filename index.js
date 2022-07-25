@@ -25,6 +25,11 @@ const questions = [
         message:"How do you use it?"
     },
     {
+        type:"input",
+        name:"credit",
+        message:"What is your GitHUb?"
+    },
+    {
         type:"list",
         name:"license",
         message:"Choose the following license",
